@@ -1,0 +1,102 @@
+body {
+    font-family: 'Barlow Condensed', sans-serif;
+    background-color:#bbf4ff;
+}
+h3 {
+    color: #172368;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    background: #fcb83c;
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.alineacion {
+    text-align: right;
+    margin-right: 10%;
+}
+.margen {
+    text-align: center;
+    margin-top: 5%;
+}
+article {
+    text-align: center;
+}
+
+.list-group-item {
+        border: 1px solid #bbf4ff;
+        background-color: #bbf4ff;
+}
+.list-group-item-action:hover {
+    background-color: #bbf4ff;
+}
+.list-group-item-action:active { 
+    background-color: #bbf4ff;
+}
+.list-group-item-action {
+    background-color: #bbf4ff;
+}
+a.list-group-item.list-group-item-action {
+    background-color: #bbf4ff;
+}
+ul.list-group.list-group-horizontal {
+    margin-left: 3%;
+    line-height: 60%;
+    
+}
+.margenLista {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.porte {
+    display: inline-grid;
+    width: 64%;
+    margin: 4%;
+    
+}
+.fa-person-circle-check:before {
+   
+    color: #ffc107;
+}
+
+.fa-earlybirds:before {
+   
+    color: #ffc107;
+} 
+
+small.text-muted {
+   
+    color: #ff6574 !important;
+}
+p.mb-1 {
+    color: cadetblue;
+}
+.bg-image.card.shadow-1-strong.col-3.imagen {
+    display: inline-grid;
+}
+section.portafolio {
+    text-align: center;
+}
+i.fa-solid.fa-folder-open.fa-3x {
+    margin-bottom: 3%;
+}
+.card {
+    display: inline-grid;
+}
+.footer {
+    background-color: #fcb83c;
+    text-align: center;
+    padding: 1%;
+}
+a {
+    color: #0d2368;
+    text-decoration: none;
+}
+a:hover {
+    color: #0d2368;
+}
